@@ -55,6 +55,16 @@ python3 ising_utils.py   # roda a bateria de testes de sanidade do módulo
 jupyter notebook          # abre os notebooks
 ```
 
+
+## Planilha de controle
+
+`controle_simulacoes_template.xlsx` lista todas as combinações de algoritmo,
+tamanho de rede e temperatura usadas nas simulações oficiais do TCC (Seção
+4.5 da Metodologia), com uma coluna de status para acompanhamento. É um
+modelo em branco — faça uma cópia e preencha conforme for rodando suas
+próprias simulações.
+
+
 ## Referência
 
 Se este código for utilizado ou adaptado, por favor cite o TCC de origem:
